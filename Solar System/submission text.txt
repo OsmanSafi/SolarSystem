@@ -1,0 +1,23 @@
+﻿Osman Safi 
+
+
+Submission Instructions 
+Include a readme.txt file in your .zip file containing your name along with answers to the following:
+1. What was your favorite topic or project in the course and why? (1pt)
+2. If you could improve any aspect of this course, what would it be and why? (1pt)
+3. If you could go back in time to the first week of class and give yourself advice on how to best navigate this course, what would it be? (1pt)
+
+
+1. My favorite topic in this course was probably the texturing portion, when we moved on from using basic colors to adding our own images. 
+
+
+2. If I could improve this course I would probably just split it into an intro and intermediate course. I think it was well taught and paced 
+but there is a lot of material to dive into and I think with more time students would have a better understanding of each piece. Overall I 
+think if you have the time for each topic then One semester is sufficient, but if you have a busy schedule this course added on is not just 
+an average or “easy” elective. I think this course was taught perfectly in the end, because when it came to the final project I wasn’t just 
+adding pieces in or copying old code, I knew at each step what I needed and why it was working. But I wasn’t working throughout the first half 
+of the semester and the second half I had enough time to dive into each topic deeply but I can see a student who is juggling a lot and doesn’t 
+have the time I did struggling with some topics. I enjoyed this course very much, and am glad I took it. 
+
+
+3. Advice I would give myself, start each assignment early, and try to have a good idea of what each step in the assignments is trying to do as opposed to just figuring out the correct code.
